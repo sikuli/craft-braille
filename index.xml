@@ -21,7 +21,7 @@
                         
                         if (b){
                         
-                            ml += '<fit x="1" y="1" z="0.5"><dot></dot></fit>'
+                            ml += '<resize x="1" y="1" z="0.5"><dot></dot></resize>'
                         
                         }else{
 
